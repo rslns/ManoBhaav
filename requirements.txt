@@ -1,0 +1,5 @@
+tensorflow>=2.15,<2.17
+opencv-python>=4.9
+mediapipe>=0.10
+numpy>=1.24
+Pillow>=10.0
